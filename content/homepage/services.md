@@ -4,34 +4,26 @@ weight: 2
 header_menu: true
 ---
 
-That is the important part, right? You want to know what I can do for you. This is why I put this right up there into the header menu of the website.
+All of our stylists are independent, prices may vary according to stylist, length, and thickness of the hair and the time required to reach your desired goals. Please consult with your stylists for an exact price.
 
 ---
-
-## Nutrition Coaching
-
-This is not an easy task. You will likely have to pay money for this. You know what - let us look at a nice picture first.
-
-![Nice picture to make you pay me ;-)](images/selective-focus-photography-of-pasta-with-tomato-and-basil-1279330.jpg)
-
-Wow. That was nice, right? Well, call me and let us talk.
+![haircuts image](images/haircuts.webp)
+## Haircuts
+* Men's Cuts $30 - $50+
+* Women's Haircuts $65 - $95+
+* Blow Dry $35 - $50+
 
 ---
-
-## Chef Consulting
-
-Did you see the picture above? I can show you how to go from
-
-![Let us get started on a clean slate](images/board-bunch-cooking-food-349609.jpg)
-
-to
-
-![Let us get started on a clean slate](images/woman-pouring-juice-on-glass-3184192.jpg)
-
-in estimated seconds.
+![color image](images/color.webp)
+## Color
+* Base Color $85 - $105+
+* Base Color with Ends Refreshed $120 - $150+
+* Double Process  $130 - $160+
+* Bleach & Tone    $130 - $160+
 
 ---
-
-Want to learn more about my services?
-
-Check out [this page](services) I created. It carries a lot more details...
+![highlights image](images/chem.webp)
+## Highlights/Balayage/Ombre
+* Face Frame $80 - $100+
+* Partial $120 - $160+
+* Full Head $150+ - $225

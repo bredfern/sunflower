@@ -4,8 +4,11 @@ weight: 4
 header_menu: true
 ---
 
-{{<icon class="fa fa-envelope">}}&nbsp;[mail@janedoe.com](mailto:your-email@your-domain.com)
+Sunflower Salon
+3268 1/2 Motor Ave.
+Los Angeles, CA 90034
 
-{{<icon class="fa fa-phone">}}&nbsp;[+49 1111 555555](tel:+491111555555)
+{{<icon class="fa fa-envelope">}}&nbsp;[snowflakesalon@gmail.com](mailto:snowflakesalon@gmail.com)
+{{<icon class="fa fa-phone">}}&nbsp;[310.730.6109](tel:+13107306109)
 
-Let us get in touch!
+Schedule an appointment today!

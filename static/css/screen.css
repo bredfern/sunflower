@@ -185,10 +185,10 @@ a:hover {
 
 a.btn {
   text-decoration: none;
-  background-color: #9fd067;
+  background-color: lightgray;
   border-radius: 6px;
   -webkit-border-radius: 6px;
-  color: white;
+  color: red;
   display: inline-block;
   font-size: 16px;
   letter-spacing: 1px;
@@ -204,7 +204,7 @@ a.btn {
 }
 
 a.btn:hover {
-  background: #86c440;
+  background: #616161;
 }
 
 #header-arrow {
@@ -316,7 +316,7 @@ dl dd {
 }
 
 mark {
-  background-color: #ffc336;
+  background-color: #8f8f8f;
 }
 
 code,
@@ -521,8 +521,8 @@ ul li {
   position: relative;
 }
 .post-holder.odd {
-  background: #b80135;
-  color: white;
+  background: hsl(81, 36%, 70%);
+  color: rgb(0, 0, 0);
 }
 
 /* Every post, on every page, gets this style on its <article> tag */

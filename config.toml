@@ -6,7 +6,7 @@ disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 defaultContentLanguage = "en"
 
 # The name of this wonderful theme ;-).
-theme = "hugo-scroll"
+theme = "lilja-scroll"
 
 # The "title" of your website
 title = "Sunflower Salon - Your source for Beauty in West Los Angeles"
