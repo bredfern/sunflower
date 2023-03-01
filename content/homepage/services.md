@@ -3,13 +3,14 @@ title: "Services"
 weight: 2
 header_menu: true
 ---
+![Logo](images/logo.png)
 
 All of our stylists are independent, prices may vary according to stylist, length, and thickness of the hair and the time required to reach your desired goals. Please consult with your stylists for an exact price.
 
 ---
 ![haircuts image](images/haircuts.webp)
 ## Haircuts
-* Men's Cuts $30 - $50+
+* Men's Cuts - $50+
 * Women's Haircuts $65 - $95+
 * Blow Dry $35 - $50+
 

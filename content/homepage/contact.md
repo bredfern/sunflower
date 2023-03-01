@@ -4,6 +4,8 @@ weight: 4
 header_menu: true
 ---
 
+[sunflower](images/sunflower.png)
+
 Sunflower Salon
 3268 1/2 Motor Ave.
 Los Angeles, CA 90034

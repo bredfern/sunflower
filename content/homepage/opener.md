@@ -3,7 +3,9 @@ title: "Welcome"
 weight: 1
 ---
 
-![Jane Doe](images/sunflower.png)
+![Logo](images/logo.png)
+
+![Sunflower Salon](images/hairdressers.webp)
 
 We're a unique salon specializing in personalized hair design.
 
