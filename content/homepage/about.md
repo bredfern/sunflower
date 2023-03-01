@@ -35,6 +35,11 @@ Lori also really enjoys cutting hair and working with a variety of clients from 
 
 ### Meet our Stylists
 
+![Sana](images/sana.webp)
+#### Sana
+
+My name is Sana. I was raised in Miami and have been living in Los Angeles for the past 15 years. I am happily married with 2 beautiful children. I have been doing hair for over 15 years. I specialize in color, cuts, Brazilian keratin treatments and blow-dry. I am grateful to do what I love! In my spare time, I enjoy spending time with family, cooking, reading, and traveling. The best way to reach me is via text at 310-526-1933.
+
 ![Vi](images/vivian.webp)
 #### Virian GV
 
