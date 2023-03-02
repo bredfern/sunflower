@@ -49,6 +49,17 @@ The best way to reach me is via text at 310-526-1933.
 
 ---
 
+![Denise](images.denise.webp)
+
+#### Denise Garcia
+
+Born and raised on the west side of Los Angeles. Over 15 years of experience, specializing in color, specicially custom blonding and toning. Reach Denise via her cell at 310-922-8022, instagram @Denisecgarcia or book online.
+
+[Schedule Online](https://www.schedulicity.com/scheduling/HCCAJZ)
+
+
+---
+
 ![Vi](images/vivian.webp)
 
 #### Virian GV
