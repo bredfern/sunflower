@@ -28,6 +28,7 @@ var $sitehead = $("#site-head");
     }
   }
   $(document).ready(function () {
+
     $postholder.each(function (e) {
       if (e % 2 != 0) $(this).addClass("odd");
     });
